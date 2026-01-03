@@ -1,10 +1,13 @@
 baseURL = "https://clarividentedaltonico.github.io/clarividente-daltonico/"
 languageCode = "es"
-title = "clarividente daltónico"
-theme = "cupper"
+title = "Clarividente Daltónico"
+theme = "PaperMod"
 
-disableKinds = ["taxonomy", "term"]
+publishDir = "docs"
 
 [params]
-  googleAnalytics = ""
-  customCSS = ["css/custom.css"]
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = false
