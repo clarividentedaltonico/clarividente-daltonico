@@ -1,9 +1,10 @@
 baseURL = "http://localhost:1313/"
 languageCode = "es"
-title = "Trinchera"
+title = "clarividente daltónico"
 theme = "cupper"
 
 disableKinds = ["taxonomy", "term"]
 
 [params]
   googleAnalytics = ""
+  customCSS = ["css/custom.css"]
