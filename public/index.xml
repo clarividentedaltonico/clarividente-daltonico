@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>clarividente daltónico</title>
+    <link>https://clarividentedaltonico.github.io/clarividente-daltonico/</link>
+    <description>Recent content on clarividente daltónico</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://clarividentedaltonico.github.io/clarividente-daltonico/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primer texto</title>
+      <link>https://clarividentedaltonico.github.io/clarividente-daltonico/posts/primer-texto/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://clarividentedaltonico.github.io/clarividente-daltonico/posts/primer-texto/</guid>
+      <description>&lt;p&gt;Esto no es un blog.&lt;/p&gt;&#xA;&lt;p&gt;Es una infraestructura mínima de crítica cultural&#xA;escrita desde el sur,&#xA;pensada para durar más que el algoritmo&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
