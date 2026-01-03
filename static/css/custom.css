@@ -47,3 +47,18 @@ img {
   height: auto;
   margin: 2rem 0;
 }
+/* Home list adjustments */
+
+main h2 {
+  font-size: 1.2rem;
+  line-height: 1.4;
+  margin-bottom: 0.25rem;
+}
+
+main h2 a {
+  text-decoration: none;
+}
+
+main article {
+  margin-bottom: 2.5rem;
+}
